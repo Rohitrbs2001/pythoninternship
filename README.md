@@ -56,7 +56,7 @@ Question 2 :
 
 
 Question 3: 
-
+.
 1.Integer (int):
 
 -> The integer data type represents whole numbers without any decimal or fractional parts.
